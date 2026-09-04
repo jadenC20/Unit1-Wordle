@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="guess_hint">Enter 4 letter guess here</string>
+    <string name="submit">Guess!</string>
+    <string name="reset">Reset</string>
+    <string name="guess_number">Guess #%1$d</string>
+    <string name="guess_check">Guess #%1$d Check</string>
+    <string name="target_word_label">The word was</string>
+    <string name="streak">Streak: %1$d</string>
+    <string name="list_common">Common</string>
+    <string name="list_sports">Sports</string>
+    <string name="list_nature">Nature</string>
+    <string name="error_length">Guess must be exactly 4 letters.</string>
+    <string name="error_letters">Guess can only contain letters A–Z.</string>
+    <string name="error_max_guesses">You have used all 3 guesses.</string>
+    <string name="you_won">You got it!</string>
+    <string name="legend">O right place  ·  + right letter  ·  X not in word</string>
+</resources>

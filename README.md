@@ -33,11 +33,8 @@ GIF created using [LiceCap](http://www.cockos.com/licecap/).
 
 Add your walkthrough GIF here after recording:
 
-```
-<img width="959" height="1251" alt="Wordle Demo" src="https://github.com/user-attachments/assets/d77ed882-6c27-4e62-9fc1-f3cd51d01cf0" />
+<img width="959" height="1251" alt="Wordle Demo" src="https://github.com/user-attachments/assets/3c5b0091-097c-4c62-acb7-0e5483391ec5" />
 
-
-```
 
 ## Notes
 
